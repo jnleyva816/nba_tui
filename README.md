@@ -28,7 +28,7 @@ NBA TUI is a terminal user interface application for browsing NBA statistics.
 Run the application:
 
 ```sh
-python main.py
+python menu.py
 ```
 
 ## Contributing
